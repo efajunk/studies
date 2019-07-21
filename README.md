@@ -1,2 +1,0 @@
-# studies
-my programming learning
